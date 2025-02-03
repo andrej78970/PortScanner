@@ -1,0 +1,5 @@
+{
+    "default_target": "scanme.nmap.org",
+    "default_ports": "1-1000",
+    "timeout": 0.5
+}
